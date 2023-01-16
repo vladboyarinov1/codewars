@@ -1,0 +1,1 @@
+let numberToString = ((num) => {return String(num)});
